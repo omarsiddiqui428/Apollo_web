@@ -1,4 +1,4 @@
-<template>
+<template> #I think the flask endpoint actually has to happen in Python though
   <SignupForm />
 </template>
 
